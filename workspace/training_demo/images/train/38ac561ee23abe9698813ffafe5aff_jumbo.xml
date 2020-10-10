@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cancer</folder>
+	<filename>38ac561ee23abe9698813ffafe5aff_jumbo.jpg</filename>
+	<path>/home/esmailelbob/Downloads/IBM/cancer/38ac561ee23abe9698813ffafe5aff_jumbo.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cancer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>187</ymin>
+			<xmax>656</xmax>
+			<ymax>882</ymax>
+		</bndbox>
+	</object>
+</annotation>
