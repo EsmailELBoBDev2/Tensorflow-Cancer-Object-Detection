@@ -11,5 +11,5 @@ ____
 ___
 # Some Fuck you(s)
 * Fuck you, [My ISP](http://te.eg/) ![Screenshot 2020-10-11 07:13:17](https://user-images.githubusercontent.com/28893833/95814079-c7a8bd00-0d19-11eb-98f7-c6fea380cf2c.png) 
-* Fuck you [GitHub](http://github.com/) *yes, again* <br> ![Screenshot 2020-10-20 12:11:44](https://user-images.githubusercontent.com/28893833/96572714-78402f00-12cd-11eb-82e0-47c266adbd10.png)
+* Fuck you [GitHub](http://github.com/), *yes, again* <br> ![Screenshot 2020-10-20 12:11:44](https://user-images.githubusercontent.com/28893833/96572714-78402f00-12cd-11eb-82e0-47c266adbd10.png)
 * Fuck you [my router](http://te.eg/) because you kept disconnect whenever i'm about to finish the upload
