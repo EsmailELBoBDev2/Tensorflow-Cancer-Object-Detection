@@ -11,3 +11,7 @@ ____
 * Fuck you [GitHub](http://github.com/) *yes, again* <br> ![Screenshot 2020-10-20 12:11:44](https://user-images.githubusercontent.com/28893833/96572714-78402f00-12cd-11eb-82e0-47c266adbd10.png)
 
 * Fuck you [my router](http://te.eg/) because you kept disconnect whenever i'm about to finish the upload
+___
+# Some Thank you(s)
+* Thank you, @armaanpriyadarshan for his [detailed explanation](https://github.com/armaanpriyadarshan/Training-a-Custom-TensorFlow-2.X-Object-Detector)
+* Thank you, my 2 cousins for allowing me to use their computer (*because my computer suck*)
